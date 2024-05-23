@@ -57,7 +57,8 @@ cd nerva/builder
 sudo ./build
 ```
 
-
+The Nerva daemon should be output to the following directory:
+```nerva/builder/output/bin```
 
 ## Compiling on Windows 
 
